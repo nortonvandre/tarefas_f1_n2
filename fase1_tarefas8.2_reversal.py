@@ -1,6 +1,5 @@
 def rotaçao(arr,count):
     lista = arr
-    lista2 = arr
     numero_removido = 0
     k = count
     for c in range(len(lista)-k,0,-1):
